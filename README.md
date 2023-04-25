@@ -3,12 +3,18 @@
 <p>I'm a ICEP Genetic Epidemiology PhD Student at the University of Bristol, UK 🇬🇧 <br>
 The focus of my research is using epidemiological methods to investigate novel drug targets for the treatment of glioma 🧠<br>
 
-I mainly use R, Command line and python.
+I mainly use R, Command line and Python.<br>
+<p>My academic interests:<br>
+<ul>
+<li>Mendelian Randomisation</li>
+<li>Causal inference</li>
+<li>Evidence Synthesis</li>
+</ul>
 <p>Education:
 <ul>
-<li>2020-Present - PhD Genetic Epidemiology, University of Bristol
-<li>2018-2019 - MSc Genomic Medicine, University of Sheffield
-<li>2014-2017 - BSc Biomedical Science (Hons), University of Sheffield
+<li>2020-Present - PhD Genetic Epidemiology, University of Bristol</li>
+<li>2018-2019 - MSc Genomic Medicine, University of Sheffield</li>
+<li>2014-2017 - BSc Biomedical Science (Hons), University of Sheffield</li>
 </ul>
 <p>Find publications I have worked on here:<br>
 
