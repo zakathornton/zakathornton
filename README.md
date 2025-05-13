@@ -1,24 +1,26 @@
 
 ## Hi, I'm Zak 👋
-<p>I'm a ICEP Genetic Epidemiology PhD Student at the University of Bristol, UK 🇬🇧 <br>
-The focus of my research is using epidemiological methods to investigate novel drug targets for the treatment of glioma 🧠<br>
+<p>I'm a postdoctoral research statistician and epidemiologist based at Leeds Institute of Cardiovascular and Metabolic Medicine (LICAMM) at the University of Leeds, UK <br>
+The focus of my research is using epidemiological methods to investigate novel drug targets for the treatment of rheumatological and vascular diseases, primarly giant cell arteritis (GCA).
 
-I mainly use R, Command line and Python.<br>
 <p>My academic interests:<br>
 <ul>
-<li>Mendelian Randomisation</li>
+<li>Genetic epidemiology</li>
+<li>Mendelian randomisation</li>
 <li>Causal inference</li>
-<li>Evidence Synthesis</li>
+<li>Evidence synthesis</li>
 </ul>
 <p>Education:
 <ul>
-<li>2020-Present - PhD Genetic Epidemiology, University of Bristol</li>
+<li>2020-2024 - PhD Genetic Epidemiology, University of Bristol</li>
 <li>2018-2019 - MSc Genomic Medicine, University of Sheffield</li>
 <li>2014-2017 - BSc Biomedical Science (Hons), University of Sheffield</li>
 </ul>
 <p>Find publications I have worked on here:<br>
 
 2024<br>
+[Brain multi-omic Mendelian randomisation to identify novel drug targets for gliomagenesis](https://pubmed.ncbi.nlm.nih.gov/39565278/)<br>
+
 [Efficacy of PD-1/PD-L1 immunotherapy on brain metastatic non-small-cell lung cancer and treatment-related adverse events: A systematic review](https://pubmed.ncbi.nlm.nih.gov/38331301/)<br>
 
 [Investigation of genetic determinants of cognitive change in later life](https://pubmed.ncbi.nlm.nih.gov/38238328/)<br>
