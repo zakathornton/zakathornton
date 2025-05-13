@@ -12,7 +12,7 @@ The focus of my research is using epidemiological methods to investigate novel d
 </ul>
 <p>Education:
 <ul>
-<li>2020-2024 - PhD Population health sciences, University of Bristol</li>
+<li>2020-2024 - PhD Population Health Sciences, University of Bristol</li>
 <li>2018-2019 - MSc Genomic Medicine, University of Sheffield</li>
 <li>2014-2017 - BSc Biomedical Science (Hons), University of Sheffield</li>
 </ul>
