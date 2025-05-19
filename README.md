@@ -1,6 +1,6 @@
 
 ## Hi, I'm Zak 👋
-<p>I'm a postdoctoral research statistician and epidemiologist based at Leeds Institute of Cardiovascular and Metabolic Medicine (LICAMM) at the University of Leeds, UK <br>
+<p>I'm a postdoctoral research statistician and epidemiologist based at Leeds Institute of Cardiovascular and Metabolic Medicine (LICAMM) and Leeds Institute of Data Analytics (LIDA) at the University of Leeds, UK <br>
 The focus of my research is using epidemiological methods to investigate novel drug targets for the treatment of rheumatological and vascular diseases, primarly giant cell arteritis (GCA).
 
 <p>My academic interests:<br>
