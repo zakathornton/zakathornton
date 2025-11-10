@@ -18,6 +18,9 @@ The focus of my research is using epidemiological methods to investigate novel d
 </ul>
 <p>Find publications I have worked on here:<br>
 
+2025<br>
+[A synthesis of economic data from randomized trials of recipient-focused interventions to increase vaccine uptake](https://pubmed.ncbi.nlm.nih.gov/41192046/)<br>
+
 2024<br>
 [Brain multi-omic Mendelian randomisation to identify novel drug targets for gliomagenesis](https://pubmed.ncbi.nlm.nih.gov/39565278/)<br>
 
