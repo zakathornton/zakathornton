@@ -19,6 +19,8 @@ The focus of my research is using epidemiological methods to investigate novel d
 <p>Find publications I have worked on here:<br>
 
 2025<br>
+[Recipient-focused interventions to increase vaccine uptake in high and upper-middle income countries: a systematic review and network meta-analysis](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00577-2/fulltext)<br>
+
 [A synthesis of economic data from randomized trials of recipient-focused interventions to increase vaccine uptake](https://pubmed.ncbi.nlm.nih.gov/41192046/)<br>
 
 2024<br>
