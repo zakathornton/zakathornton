@@ -19,6 +19,8 @@ The focus of my research is using epidemiological methods to investigate novel d
 <p>Find publications I have worked on here:<br>
 
 2026<br>
+[Effectiveness of interventions to increase vaccine uptake: component network meta-analysis](https://pubmed.ncbi.nlm.nih.gov/41985976/)<br>
+
 [Interventions to increase vaccine uptake among socially excluded groups: A systematic review](https://pubmed.ncbi.nlm.nih.gov/41666790/)<br>
 
 2025<br>
